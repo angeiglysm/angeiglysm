@@ -1,4 +1,4 @@
-# Hi, I'm Angeiglys 👋
+# Hi, I'm Angeiglys
 
 Computer Science student at Valencia College.
 
