@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Angeiglys 👋
 
-<!--
-**angeiglysm/angeiglysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Valencia College.
 
-Here are some ideas to get you started:
+## Currently
+- Learning software development
+- Building personal projects
+- Exploring AI and tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- HTML/CSS
+- GitHub
