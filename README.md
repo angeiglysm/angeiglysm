@@ -9,6 +9,7 @@ Computer Science student at Valencia College.
 
 ## Skills
 - Python
-- Java
+- C#
 - HTML/CSS
 - GitHub
+- Java
