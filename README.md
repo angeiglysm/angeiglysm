@@ -5,7 +5,7 @@ Computer Science student at Valencia College.
 ## Currently
 - Learning software development
 - Building personal projects
-- Exploring AI and tech
+- Exploring AI and automation.
 
 ## Skills
 - Python
